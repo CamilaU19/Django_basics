@@ -1,2 +1,2 @@
 # Django_basics
- Este en un repositorio para el primer proyecto de POO Media
+ Este es un repositorio para el primer proyecto de POO Media
